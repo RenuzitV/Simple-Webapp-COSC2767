@@ -13,4 +13,4 @@
 - The main index.jsp contains the most basic template of latest Bootstrap CSS framework.
 
 
-## This is a new line, added directly from the github page. the tomcat server should update this change shortly.
+## This is a new line, added directly from the github page. the tomcat server should update this change shortly
